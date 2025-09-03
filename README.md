@@ -9,9 +9,10 @@
 - 🌍 Desde Málaga, España.
 - 🛠️ Fundador de **EVOLUT PLATFORM**
 - 🎯 Actualmente enfocado en:
-  - Desarrollo en **Java, C, HTML5 y CSS3**
+  - Cursando segundo semestre **FP DAM** en DigiTech FP
+  - Desarrollo en **JavaScript, C, HTML5 y CSS3**
   - Formación en **Linux y Ciberseguridad** (Cisco)
-  - Preparación para la piscina de **42 Málaga** (Julio 2025)
+  - Nuevo alomno de **42 Málaga** (Noviembre 2025)
   - Desarrollo del curso profesional de **Steel Frame**
 
 ---
@@ -21,14 +22,11 @@
 ### 🔧 [Evolut Platform](https://github.com/hectorevolut/evolut-platform)
 Plataforma para formar y conectar equipos de montaje industrializado con fabricantes como PRS, CIDARK y Kingspan.
 
-### 🏗️ Finca Amaya (próximamente)
-Caso real documentado de instalación Steel Frame: cronología, fotos, aprendizajes y formación en obra.
-
 ---
 
 ## 🧰 Tecnologías que estoy usando
 
-- **Lenguajes**: Java · C · Python · HTML5 · CSS3 · Bash
+- **Lenguajes**: JavaScript · C · Python · HTML5 · CSS3 · Bash
 - **Herramientas**: Git · GitHub · Visual Studio Code · Linux CLI
 - **Formación**: Cisco Networking Academy · Digitech FP · 42 Málaga (próxima)
 
@@ -36,7 +34,8 @@ Caso real documentado de instalación Steel Frame: cronología, fotos, aprendiza
 
 ## ✍️ Últimos aprendizajes
 
-- ✔️ POO en Java con prácticas como Cine y Aula
+- ✔️ Piscina 42 Málaga
+- ✔️ Curso JavaScript Essentials 1 (Cisco)
 - ✔️ Curso Linux Essentials (Cisco)
 - ✔️ HTML5 Semántico + CSS3 Responsive
 - ✔️ Git y control de versiones para proyectos reales
@@ -47,7 +46,6 @@ Caso real documentado de instalación Steel Frame: cronología, fotos, aprendiza
 
 - 📧 Email: [hector@evolutplatform.com](mailto:hector@evolutplatform.com)
 - 🌐 Web personal / proyecto: [www.evolutplatform.es](https://www.evolutplatform.es)
-- 🧠 Notion de seguimiento (privado): Formación DAM + Roadmap Evolut
 
 ---
 
