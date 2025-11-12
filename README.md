@@ -10,9 +10,9 @@
 - 🛠️ Fundador de **EVOLUT PLATFORM**
 - 🎯 Actualmente enfocado en:
   - Cursando segundo semestre **FP DAM** en DigiTech FP
-  - Desarrollo en **JavaScript, C, HTML5 y CSS3**
+  - Desarrollo en **Java, C, HTML5 y CSS3**
   - Formación en **Linux y Ciberseguridad** (Cisco)
-  - Nuevo alomno de **42 Málaga** (Noviembre 2025)
+  - Nuevo alomno de **42 Málaga**
   - Desarrollo del curso profesional de **Steel Frame**
 
 ---
@@ -20,15 +20,15 @@
 ## 📚 Proyectos clave
 
 ### 🔧 [Evolut Platform](https://github.com/hectorevolut/evolut-platform)
-Plataforma para formar y conectar equipos de montaje industrializado con fabricantes como PRS, CIDARK y Kingspan.
+Plataforma para formar y conectar equipos de montaje industrializado con fabricantes.
 
 ---
 
 ## 🧰 Tecnologías que estoy usando
 
-- **Lenguajes**: JavaScript · C · Python · HTML5 · CSS3 · Bash
+- **Lenguajes**: Java · C · HTML5 · CSS3 · Bash
 - **Herramientas**: Git · GitHub · Visual Studio Code · Linux CLI
-- **Formación**: Cisco Networking Academy · Digitech FP · 42 Málaga (próxima)
+- **Formación**: Cisco Networking Academy · Digitech FP · 42 Málaga
 
 ---
 
